@@ -6,8 +6,8 @@ This project is a Python-based brute force attack simulation that demonstrates h
 ## Screenshots
 Here are some screenshots of the project in action:
 
-![Screenshot showing the brute force attack progress](images/screenshot1_brute_force.png)
-![Screenshot showing the final report](images/screenshot2_brute_force.png)
+![Screenshot showing the brute force attack progress](screenshots/screenshot1_brute_force.png)
+![Screenshot showing the final report](screenshots/screenshot2_brute_force.png)
 
 ## Features
 - Simulates brute force attacks with customizable character sets and password lengths.
