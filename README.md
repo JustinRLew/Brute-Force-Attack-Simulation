@@ -43,4 +43,4 @@ source venv/bin/activate
 
 Run the brute force attack script:
 bash
-python brute_force.py# Brute-Force-Attack-Simulation
+python brute_force.py
