@@ -1,5 +1,7 @@
 # Brute Force Attack Simulation
 
+https://youtu.be/sRQPNThBqpU
+
 ## Overview
 This project is a Python-based brute force attack simulation that demonstrates how brute force attacks work. The script attempts to guess passwords by hashing and comparing them to a stored hash.
 
